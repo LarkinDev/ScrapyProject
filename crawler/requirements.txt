@@ -1,0 +1,5 @@
+scrapy
+selenium
+webdriver-manager
+sqlalchemy
+psycopg2
